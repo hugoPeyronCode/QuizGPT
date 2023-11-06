@@ -33,6 +33,7 @@
 		43ADCD132AF6DDA800786BCD /* CreateMyTopicView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43ADCD122AF6DDA800786BCD /* CreateMyTopicView.swift */; };
 		43ADCD182AF7E58C00786BCD /* CashView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43ADCD172AF7E58C00786BCD /* CashView.swift */; };
 		43ADCD1C2AF7E5B000786BCD /* CashViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43ADCD1B2AF7E5B000786BCD /* CashViewModel.swift */; };
+		43C144532AF94C0700B7D2F0 /* Biology in Resources */ = {isa = PBXBuildFile; fileRef = 43C144522AF94C0700B7D2F0 /* Biology */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -63,6 +64,7 @@
 		43ADCD122AF6DDA800786BCD /* CreateMyTopicView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateMyTopicView.swift; sourceTree = "<group>"; };
 		43ADCD172AF7E58C00786BCD /* CashView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CashView.swift; sourceTree = "<group>"; };
 		43ADCD1B2AF7E5B000786BCD /* CashViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CashViewModel.swift; sourceTree = "<group>"; };
+		43C144522AF94C0700B7D2F0 /* Biology */ = {isa = PBXFileReference; lastKnownFileType = text; path = Biology; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -240,6 +242,7 @@
 				4349491D2AF54DF10061BE85 /* general.json */,
 				434949192AF54DD90061BE85 /* history.json */,
 				4349491B2AF54DE20061BE85 /* geography.json */,
+				43C144522AF94C0700B7D2F0 /* Biology */,
 			);
 			name = Data;
 			path = QuizGPT/Data;
@@ -361,7 +364,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 434948B92AF412E10061BE85 /* Build configuration list for PBXProject "QuizGPT" */;
+			buildConfigurationList = 434948B92AF412E10061BE85 /* Build configuration list for PBXProject "QuizGP" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -384,6 +387,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				43C144532AF94C0700B7D2F0 /* Biology in Resources */,
 				4349491E2AF54DF10061BE85 /* general.json in Resources */,
 				434948C92AF412E20061BE85 /* Preview Assets.xcassets in Resources */,
 				4349491A2AF54DD90061BE85 /* history.json in Resources */,
@@ -608,7 +612,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		434948B92AF412E10061BE85 /* Build configuration list for PBXProject "QuizGPT" */ = {
+		434948B92AF412E10061BE85 /* Build configuration list for PBXProject "QuizGP" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				434948CA2AF412E20061BE85 /* Debug */,
