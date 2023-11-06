@@ -1,0 +1,123 @@
+[
+    {
+        "question": "Who was the first President of the United States?",
+        "answer": "George Washington",
+        "possibleAnswers": ["George Washington", "Thomas Jefferson", "John Adams", "Benjamin Franklin"],
+        "explanation": "George Washington served as the first President of the United States from 1789 to 1797."
+    },
+    {
+        "question": "Which document was adopted on July 4, 1776, declaring the American colonies' independence from Britain?",
+        "answer": "The Declaration of Independence",
+        "possibleAnswers": ["The Constitution", "The Emancipation Proclamation", "The Bill of Rights", "The Declaration of Independence"],
+        "explanation": "The Declaration of Independence was adopted on July 4, 1776, and is a foundational document in American history."
+    },
+    {
+        "question": "What event marked the beginning of the American Revolutionary War?",
+        "answer": "The Battles of Lexington and Concord",
+        "possibleAnswers": ["The Boston Tea Party", "The Battle of Bunker Hill", "The Battles of Lexington and Concord", "The Siege of Yorktown"],
+        "explanation": "The Battles of Lexington and Concord on April 19, 1775, marked the start of the American Revolutionary War."
+    },
+    {
+        "question": "Who wrote the 'Star-Spangled Banner,' the national anthem of the United States?",
+        "answer": "Francis Scott Key",
+        "possibleAnswers": ["John Adams", "Thomas Jefferson", "George Washington", "Francis Scott Key"],
+        "explanation": "Francis Scott Key wrote the lyrics to the 'Star-Spangled Banner' during the War of 1812."
+    },
+    {
+        "question": "Which President is known for issuing the Emancipation Proclamation during the Civil War?",
+        "answer": "Abraham Lincoln",
+        "possibleAnswers": ["George Washington", "Thomas Jefferson", "Andrew Johnson", "Abraham Lincoln"],
+        "explanation": "Abraham Lincoln issued the Emancipation Proclamation on January 1, 1863, declaring the freedom of slaves in Confederate states."
+    },
+    {
+        "question": "What was the name of the ship that carried the Pilgrims to America in 1620?",
+        "answer": "The Mayflower",
+        "possibleAnswers": ["The Santa Maria", "The Nina", "The Mayflower", "The Pinta"],
+        "explanation": "The Mayflower transported the Pilgrims to Plymouth, Massachusetts, in 1620."
+    },
+    {
+        "question": "Which American inventor is best known for the invention of the light bulb?",
+        "answer": "Thomas Edison",
+        "possibleAnswers": ["Benjamin Franklin", "Alexander Graham Bell", "Nikola Tesla", "Thomas Edison"],
+        "explanation": "Thomas Edison is credited with inventing the practical incandescent light bulb."
+    },
+    {
+        "question": "What was the name of the American suffragist and women's rights activist who played a key role in the women's suffrage movement?",
+        "answer": "Susan B. Anthony",
+        "possibleAnswers": ["Harriet Tubman", "Elizabeth Cady Stanton", "Susan B. Anthony", "Rosa Parks"],
+        "explanation": "Susan B. Anthony was a prominent figure in the fight for women's suffrage in the United States."
+    },
+    {
+        "question": "Which American city is famous for the 1969 Stonewall riots, considered a pivotal moment in the LGBTQ+ rights movement?",
+        "answer": "New York City",
+        "possibleAnswers": ["San Francisco", "Los Angeles", "Chicago", "New York City"],
+        "explanation": "The Stonewall riots occurred in New York City's Greenwich Village and are seen as a catalyst for the LGBTQ+ rights movement."
+    },
+    {
+        "question": "Who was the American astronaut and first person to walk on the Moon during the Apollo 11 mission?",
+        "answer": "Neil Armstrong",
+        "possibleAnswers": ["John Glenn", "Buzz Aldrin", "Yuri Gagarin", "Neil Armstrong"],
+        "explanation": "Neil Armstrong became the first person to set foot on the Moon on July 20, 1969, during the Apollo 11 mission."
+    },
+    {
+        "question": "Signing of the Declaration of Independence",
+        "answer": "1776",
+        "possibleAnswers": ["1776", "1800", "1900", "2000"],
+        "explanation": "The Declaration of Independence was signed in 1776."
+    },
+    {
+        "question": "End of World War II",
+        "answer": "1945",
+        "possibleAnswers": ["1945", "1776", "1804", "1929"],
+        "explanation": "World War II ended in 1945 with the surrender of Axis powers."
+    },
+    {
+        "question": "The first moon landing",
+        "answer": "1969",
+        "possibleAnswers": ["1607", "1492", "1969", "2001"],
+        "explanation": "The first moon landing occurred in 1969 during the Apollo 11 mission."
+    },
+    {
+        "question": "Start of the American Civil War",
+        "answer": "1861",
+        "possibleAnswers": ["1861", "1700", "1800", "1900"],
+        "explanation": "The American Civil War began in 1861."
+    },
+    {
+        "question": "The stock market crash that began the Great Depression",
+        "answer": "1929",
+        "possibleAnswers": ["1776", "1929", "2001", "1945"],
+        "explanation": "The stock market crash of 1929 marked the beginning of the Great Depression."
+    },
+    {
+        "question": "The year the United States Constitution was ratified",
+        "answer": "1788",
+        "possibleAnswers": ["1600", "1788", "1900", "2000"],
+        "explanation": "The United States Constitution was ratified in 1788."
+    },
+    {
+        "question": "The Louisiana Purchase",
+        "answer": "1803",
+        "possibleAnswers": ["1492", "1803", "1941", "1776"],
+        "explanation": "The Louisiana Purchase occurred in 1803, significantly expanding the territory of the United States."
+    },
+    {
+        "question": "The Wright brothers' first flight",
+        "answer": "1903",
+        "possibleAnswers": ["1903", "1607", "1865", "1776"],
+        "explanation": "The Wright brothers' first successful flight was in 1903."
+    },
+    {
+        "question": "The United States Bicentennial celebration",
+        "answer": "1976",
+        "possibleAnswers": ["1492", "1620", "1976", "1804"],
+        "explanation": "The United States celebrated its Bicentennial in 1976."
+    },
+    {
+        "question": "Martin Luther King Jr.'s 'I Have a Dream' speech",
+        "answer": "1963",
+        "possibleAnswers": ["1963", "1776", "1861", "1945"],
+        "explanation": "Martin Luther King Jr. delivered his 'I Have a Dream' speech in 1963."
+    }
+]
+

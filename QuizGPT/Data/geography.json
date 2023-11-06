@@ -1,0 +1,63 @@
+[
+    {
+        "question": "What is the largest country in the world by total area?",
+        "answer": "Russia",
+        "possibleAnswers": ["Canada", "China", "USA", "Russia"],
+        "explanation": "Russia is the largest country in the world, covering more than one-eighth of the Earth's inhabited land area."
+    },
+    {
+        "question": "Which river is the longest in the world?",
+        "answer": "The Nile",
+        "possibleAnswers": ["The Amazon", "The Nile", "The Yangtze", "The Mississippi"],
+        "explanation": "The Nile River, flowing through northeastern Africa, is traditionally considered the longest river in the world."
+    },
+    {
+        "question": "What is the capital of Australia?",
+        "answer": "Canberra",
+        "possibleAnswers": ["Sydney", "Melbourne", "Brisbane", "Canberra"],
+        "explanation": "Canberra is the capital of Australia, located in the Australian Capital Territory."
+    },
+    {
+        "question": "Which mountain has the highest peak above sea level?",
+        "answer": "Mount Everest",
+        "possibleAnswers": ["K2", "Mount Kilimanjaro", "Mount Everest", "Kangchenjunga"],
+        "explanation": "Mount Everest, located in the Himalayas on the border of Nepal and Tibet, has the highest peak above sea level."
+    },
+    {
+        "question": "What is the largest desert in the world?",
+        "answer": "Antarctica",
+        "possibleAnswers": ["Sahara", "Arabian", "Kalahari", "Antarctica"],
+        "explanation": "Antarctica is considered the largest desert in the world, due to its low precipitation rates."
+    },
+    {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "answer": "Japan",
+        "possibleAnswers": ["China", "Korea", "Japan", "Vietnam"],
+        "explanation": "Japan is known as the Land of the Rising Sun, with the sun playing a significant role in Japanese culture and traditions."
+    },
+    {
+        "question": "What is the deepest part of the world's oceans?",
+        "answer": "The Mariana Trench",
+        "possibleAnswers": ["The Atlantic Abyss", "The Puerto Rico Trench", "The Java Trench", "The Mariana Trench"],
+        "explanation": "The Mariana Trench, located in the western Pacific Ocean, is the deepest part of the world's oceans."
+    },
+    {
+        "question": "Which continent is known as the 'Dark Continent'?",
+        "answer": "Africa",
+        "possibleAnswers": ["Asia", "Africa", "South America", "Australia"],
+        "explanation": "Africa is often historically referred to as the 'Dark Continent' due to its mysterious and unknown nature to Europeans."
+    },
+    {
+        "question": "What is the largest lake in the world by volume?",
+        "answer": "Lake Baikal",
+        "possibleAnswers": ["Lake Superior", "Lake Victoria", "Lake Tanganyika", "Lake Baikal"],
+        "explanation": "Lake Baikal, located in Siberia, Russia, is the largest freshwater lake by volume, containing about one-fifth of the world's fresh surface water."
+    },
+    {
+        "question": "Which country has the most natural lakes?",
+        "answer": "Canada",
+        "possibleAnswers": ["USA", "Russia", "Canada", "Finland"],
+        "explanation": "Canada has the highest number of natural lakes, with over 2 million lakes covering about 8% of its land area."
+    }
+]
+

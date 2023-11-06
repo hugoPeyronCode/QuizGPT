@@ -1,0 +1,63 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "answer": "Paris",
+        "possibleAnswers": ["Berlin", "Madrid", "Rome", "Paris"],
+        "explanation": "Paris is the capital and largest city of France, situated on the Seine River."
+    },
+    {
+        "question": "Who is known as the 'Father of Computers'?",
+        "answer": "Charles Babbage",
+        "possibleAnswers": ["Alan Turing", "Charles Babbage", "John von Neumann", "Ada Lovelace"],
+        "explanation": "Charles Babbage is credited with inventing the first mechanical computer, which is considered a precursor to modern computers."
+    },
+    {
+        "question": "What is the tallest mountain in the world?",
+        "answer": "Mount Everest",
+        "possibleAnswers": ["K2", "Mount Kilimanjaro", "Mount Everest", "Kangchenjunga"],
+        "explanation": "Mount Everest, located in the Himalayas, is the tallest mountain on Earth, with a peak that rises to an elevation of 29,029 feet."
+    },
+    {
+        "question": "Which planet is known as the 'Red Planet'?",
+        "answer": "Mars",
+        "possibleAnswers": ["Venus", "Mars", "Saturn", "Jupiter"],
+        "explanation": "Mars is often referred to as the 'Red Planet' due to its reddish appearance, caused by iron oxide on its surface."
+    },
+    {
+        "question": "Who wrote the play 'Romeo and Juliet'?",
+        "answer": "William Shakespeare",
+        "possibleAnswers": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"],
+        "explanation": "William Shakespeare wrote 'Romeo and Juliet', a tragedy that tells the story of two young star-crossed lovers."
+    },
+    {
+        "question": "What is the chemical symbol for water?",
+        "answer": "H2O",
+        "possibleAnswers": ["CO2", "O2", "H2O", "NaCl"],
+        "explanation": "The chemical symbol for water is H2O, representing two hydrogen atoms and one oxygen atom."
+    },
+    {
+        "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+        "answer": "Amelia Earhart",
+        "possibleAnswers": ["Amelia Earhart", "Sally Ride", "Harriet Quimby", "Bessie Coleman"],
+        "explanation": "Amelia Earhart became the first woman to fly solo across the Atlantic Ocean on May 20, 1932."
+    },
+    {
+        "question": "What is the square root of 64?",
+        "answer": "8",
+        "possibleAnswers": ["6", "7", "8", "9"],
+        "explanation": "The square root of 64 is 8, as 8 multiplied by itself equals 64."
+    },
+    {
+        "question": "Which element has the atomic number 79?",
+        "answer": "Gold",
+        "possibleAnswers": ["Silver", "Gold", "Platinum", "Copper"],
+        "explanation": "Gold is a chemical element with the symbol Au and atomic number 79."
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "answer": "Leonardo da Vinci",
+        "possibleAnswers": ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Michelangelo"],
+        "explanation": "The Mona Lisa is a portrait painted by Italian artist, inventor, and writer Leonardo da Vinci."
+    }
+]
+

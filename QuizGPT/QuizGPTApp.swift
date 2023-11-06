@@ -9,9 +9,19 @@ import SwiftUI
 
 @main
 struct QuizGPTApp: App {
+    
+    let topicsManager : TopicsManager = TopicsManager.shared
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            
+//            CashView(answer: "Napoleon")
+            
+            Home() { SaveDataManager.shared.saveTopics(topicsManager.allTopics) }
+                .environmentObject(topicsManager)
         }
+    }
+    func saveData() {
+        SaveDataManager.shared.saveTopics(topicsManager.allTopics)
     }
 }
